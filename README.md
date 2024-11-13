@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelronevesdev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/4GD5H3ICOBN7O1)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelneves538@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ![SamuelRNeves GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRNeves&show_icons=true&theme=dark)
 
