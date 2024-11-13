@@ -4,7 +4,10 @@
 [![]( https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/4GD5H3ICOBN7O1)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelneves538@gmail.com)
 
-![SamuelRNeves GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRNeves&show_icons=true&theme=radical)
+![SamuelRNeves GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRNeves&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRNeves
+)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso 
 
@@ -16,3 +19,6 @@
     <img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img aling="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/">
 </div>
+
+
+
