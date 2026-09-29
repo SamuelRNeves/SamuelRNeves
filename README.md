@@ -1,7 +1,8 @@
-# 👋 Olá, eu sou Samuel Neves!
+# Samuel Neves
 
-💻 Desenvolvedor Full Stack | Analista de TI  
-🚀 Apaixonado por tecnologia, desenvolvimento de sistemas e automação.
+**Desenvolvedor Full Stack | Analista de TI**
+
+Desenvolvo aplicações web, APIs e automações, com experiência também em infraestrutura, redes e servidores.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelronevesdev">
@@ -17,24 +18,24 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou profissional de TI com foco em **desenvolvimento de software** e experiência com infraestrutura, servidores, redes e suporte técnico.
+Sou profissional de TI com experiência em infraestrutura, servidores, redes e suporte técnico, atualmente atuando como Analista de TI.
 
-Atualmente trabalho como **Analista de TI** e estou direcionando minha carreira para desenvolvimento, construindo projetos utilizando tecnologias modernas de Frontend e Backend.
+Meu foco de carreira é o desenvolvimento de software, com experiência na construção de aplicações web, APIs e automações utilizando tecnologias de Frontend e Backend.
 
-Tenho interesse principalmente em:
+Tenho interesse em:
 
-- 🌐 Desenvolvimento Web
-- ⚙️ APIs e Backend
-- 🤖 Automação de processos
-- 🗄️ Bancos de dados
-- ☁️ Cloud e infraestrutura
-- 📊 Sistemas e dashboards
+- Desenvolvimento Web
+- APIs e Backend
+- Automação de processos
+- Bancos de dados
+- Cloud e infraestrutura
+- Sistemas e dashboards
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Frontend
 
@@ -66,7 +67,7 @@ Tenho interesse principalmente em:
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
 
-### DevOps & Ferramentas
+### DevOps e ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -77,51 +78,40 @@ Tenho interesse principalmente em:
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos
 
-### 🟠 BMSS — Bitcoin Market Sentiment System
+### BMSS — Bitcoin Market Sentiment System
 
 Sistema desenvolvido para monitorar notícias e dados relacionados ao Bitcoin e analisar o sentimento do mercado utilizando Inteligência Artificial.
 
-**Tecnologias:**
-
+**Tecnologias:**  
 `Next.js` `React` `TypeScript` `TailwindCSS` `Java` `Spring Boot` `Python`
 
-🔗 [Ver projeto no GitHub](https://github.com/SamuelRNeves/bmss)
+[Ver projeto no GitHub](https://github.com/SamuelRNeves/bmss)
 
 ---
 
-### 👥 Clientes API
+### Clientes API
 
 API REST desenvolvida para gerenciamento e cadastro de clientes.
 
-**Tecnologias:**
-
+**Tecnologias:**  
 `JavaScript` `Node.js` `API REST`
 
-🔗 [Ver projeto no GitHub](https://github.com/SamuelRNeves/clientes-api)
+[Ver projeto no GitHub](https://github.com/SamuelRNeves/clientes-api)
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelRNeves&show_icons=true&theme=github_dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRNeves&layout=compact&theme=github_dark&hide_border=true">
-</p>
-
----
-
-## 📫 Contato
+## Contato
 
 Se quiser conversar sobre desenvolvimento, tecnologia ou oportunidades profissionais:
 
-📧 **Email:** samuelneves538@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/samuelronevesdev](https://www.linkedin.com/in/samuelronevesdev)  
-🐙 **GitHub:** [github.com/SamuelRNeves](https://github.com/SamuelRNeves)
+**Email:** samuelneves538@gmail.com  
+**LinkedIn:** [linkedin.com/in/samuelronevesdev](https://www.linkedin.com/in/samuelronevesdev)  
+**GitHub:** [github.com/SamuelRNeves](https://github.com/SamuelRNeves)
 
 ---
 
 <p align="center">
-  <i>Construindo soluções, aprendendo todos os dias e evoluindo como desenvolvedor. 🚀</i>
+  Desenvolvendo, aprendendo e evoluindo continuamente.
 </p>
